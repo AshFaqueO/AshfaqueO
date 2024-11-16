@@ -15,8 +15,6 @@
 
 -  How to reach me **ashfaque25802@gmail.com**
 
--  Fun fact **Fun’s on permaban**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kuy1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuy1337" height="30" width="40" /></a>
