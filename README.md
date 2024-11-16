@@ -1,7 +1,7 @@
 ![logo](https://github.com/AshFaqueO/AshfaqueO/blob/main/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi , I'm Syed Ashfaque</h1>
 <h3 align="center">CS Student | Learning as I go | Tryna Figure Out the Rest</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/AshFaqueO/AshfaqueO/blob/main/Untitled%20design%20(5).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaqueo&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaqueo" /> </p>
 
