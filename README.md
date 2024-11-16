@@ -1,5 +1,6 @@
 ![logo](https://github.com/AshFaqueO/AshfaqueO/blob/main/banner.gif)
 <h3 align="center">CS Student | Learning as I go | Tryna Figure Out the Rest</h3>
+<img align="right" alt="Coding" width="350" src="https://github.com/AshFaqueO/AshfaqueO/blob/main/os.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaqueo&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaqueo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kuy1337" target="blank"><img src="https://img.shields.io/twitter/follow/kuy1337?logo=twitter&style=for-the-badge" alt="kuy1337" /></a> </p>
