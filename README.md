@@ -1,5 +1,4 @@
-![logo](https://github.com/AshFaqueO/AshfaqueO/blob/main/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi , I'm Syed Ashfaque</h1>
+![logo](https://github.com/AshFaqueO/AshfaqueO/blob/main/banner.gif)
 <h3 align="center">CS Student | Learning as I go | Tryna Figure Out the Rest</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/AshFaqueO/AshfaqueO/blob/main/os.gif">
 
