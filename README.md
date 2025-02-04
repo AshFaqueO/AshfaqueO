@@ -1,4 +1,3 @@
-![logo](https://github.com/AshFaqueO/AshfaqueO/blob/main/banner.gif)
 <h3 align="center">CS Student | Learning as I go | Tryna Figure Out the Rest</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaqueo&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaqueo" /> </p>
 
