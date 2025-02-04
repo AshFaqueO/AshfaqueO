@@ -7,7 +7,7 @@
 
 -  All of my projects are available at [https://github.com/AshFaqueO](https://github.com/AshFaqueO)
 
--  Ask me about **Database and queries (for now, im still learning)**
+-  Ask me about **Database and SQL (for now, im still learning)**
 
 -  How to reach me **ashfaque25802@gmail.com**
 
