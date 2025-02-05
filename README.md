@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kuy1337" target="blank"><img src="https://img.shields.io/twitter/follow/kuy1337?logo=twitter&style=for-the-badge" alt="kuy1337" /></a> </p>
 
--  I’m currently learning **Data structures and Database**
+-  I’m currently working on **Python**
 
 -  All of my projects are available at [https://github.com/AshFaqueO](https://github.com/AshFaqueO)
 
