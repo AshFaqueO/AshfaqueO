@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/kuy1337" target="blank"><img src="https://img.shields.io/twitter/follow/kuy1337?logo=twitter&style=for-the-badge" alt="kuy1337" /></a> </p>
 
--  I’m currently working on **Python**
+-  I’m currently working on **HTML/CSS**
 
 -  All of my projects are available at [https://github.com/AshFaqueO](https://github.com/AshFaqueO)
 
--  Ask me about **Database and SQL (for now, im still learning)**
+-  Portfolio: [https://ashfaqueo.github.io](https://ashfaqueo.github.io)
 
 -  How to reach me **ashfaque25802@gmail.com**
 
