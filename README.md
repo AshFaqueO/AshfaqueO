@@ -7,7 +7,7 @@
 
 -  All of my projects are available at [https://github.com/AshFaqueO](https://github.com/AshFaqueO)
 
--  Portfolio: [https://ashfaqueo.github.io](https://ashfaqueo.github.io)
+-  Portfolio: [https://ashfaque0.github.io](https://ashfaqueo.github.io)
 
 -  How to reach me **ashfaque25802@gmail.com**
 
